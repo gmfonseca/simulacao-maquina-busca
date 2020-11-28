@@ -2,4 +2,5 @@
 .idea/
 target/
 out/
+simulation-results/
 dependency-reduced-pom.xml
